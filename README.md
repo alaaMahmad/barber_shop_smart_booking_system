@@ -3,7 +3,7 @@
 A comprehensive web application designed to eliminate long queues, chaotic timings, and overlapping bookings through an automated slot-management system, role-based access control (RBAC), and interactive UI cards.
 
 ## 🚀 Tech Stack
-- **Backend**: Python, Django Framework, SQLite, Bcrypt
+- **Backend**: Python, Django Framework, MySQL, Bcrypt
 - **Frontend**: HTML5, CSS3 / Bootstrap, JavaScript, AJAX
 - **Design**: Figma Wireframes
 
